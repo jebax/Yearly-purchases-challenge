@@ -23,7 +23,3 @@ class YearlyUsers
   end
 
 end
-
-year1 = YearlyUsers.new(['A042', 'B004', 'A025', 'A042', 'C025'],
-              ['B009', 'B040', 'B004', 'A042', 'A025', 'A042'],
-              ['A042', 'A025', 'B004'])
