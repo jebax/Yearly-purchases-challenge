@@ -1,4 +1,4 @@
-~Yearly Purchases Challenge~
+<u>Yearly Purchases Challenge</u>
 
 This is a codewars 6kyu challenge: 
 "Define a best_monthly method for a set of users, provided as an array with a group of users for each month."
