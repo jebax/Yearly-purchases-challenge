@@ -1,6 +1,6 @@
 Yearly Purchases Challenge
 
-This is a codewars 6kyu challenge: 
+This is a codewars 6kyu challenge in Ruby: 
 "Define a best_monthly method for a set of users, provided as an array with a group of users for each month.
 You must return a nested array of all users who made a purchase in every month, in the format [count, [all, users], next count, [next, users]], sorted by most purchases to least purchases."
 
